@@ -28,18 +28,6 @@ sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl wge
 
 ```
 
-* **For Mac**
-
-```
-brew install python
-```
-
-Check Version
-
-```
-python3 --version
-```
-
 
 # Install Node.js , npm & yarn
 
