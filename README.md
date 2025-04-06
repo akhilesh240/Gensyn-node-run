@@ -49,7 +49,7 @@ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/source
 sudo apt update && sudo apt install -y yarn
 ```
 
-* Check version **(Linux/Mac)**
+* Check version **(Linux)**
 
 ```
 node -v
