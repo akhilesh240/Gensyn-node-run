@@ -125,7 +125,7 @@ cd ..
 - A web Pop-Up will appear, It will ask u to Login ( if no web pop-up then u have to paste this on ur brower `http://localhost:3000/` 
 
 
-- Now Login With Your Email Id, Enter OTP and back to ur Terminal/Wsl? **( VPS users check FAQ1 )**
+- Now Login With Your Email Id, Enter OTP and back to ur Terminal/Wsl? 
 
 ![image](https://github.com/user-attachments/assets/1fed4b08-4ec4-44de-868c-b2d314cd2a02)
 
@@ -136,7 +136,8 @@ cd ..
 
 * Now It will promt `Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N]` Enter `N`
 
-![image](https://github.com/user-attachments/assets/b63da75d-389a-4ded-9c4e-cd23804d94ef)
+![image](https://github.com/user-att![Screenshot (284)](https://github.com/user-attachments/assets/f1db7a40-5a6f-4d33-8512-b7ab51b91663)
+achments/assets/b63da75d-389a-4ded-9c4e-cd23804d94ef)
 
 
 
