@@ -136,8 +136,8 @@ cd ..
 
 * Now It will promt `Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N]` Enter `N`
 
-![image](https://github.com/user-att![Screenshot (284)](https://github.com/user-attachments/assets/f1db7a40-5a6f-4d33-8512-b7ab51b91663)
-achments/assets/b63da75d-389a-4ded-9c4e-cd23804d94ef)
+![image]![Screenshot (284)](https://github.com/user-attachments/assets/1fe33d6c-39c4-444b-9347-bfcf300d3762)
+
 
 
 
