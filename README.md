@@ -11,8 +11,6 @@
 
 **❌❌The Node Wont work on low Specs Devices, It can Cause System Crashing if u try on Low Specs Devices**
 
-* Open Your Vps
-
 ```
 ssh username@ip
 ```
