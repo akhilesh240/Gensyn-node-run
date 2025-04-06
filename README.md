@@ -139,12 +139,6 @@ cd ..
 
 ![image]!![Screenshot (284)](https://github.com/user-attachments/assets/5477936a-2d1d-4977-8be1-033456c1f857)
 
-
-
-
-
-![image](https://github.com/user-attachments/assets/35321942-1aa3-47f1-92a3-dae9881b64cd)
-
 Here we go🚀
 
 Its Done ✅
