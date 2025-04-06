@@ -127,7 +127,8 @@ cd ..
 
 - Now Login With Your Email Id, Enter OTP and back to ur Terminal/Wsl? 
 
-![image](https://github.com/user-attachments/assets/1fed4b08-4ec4-44de-868c-b2d314cd2a02)
+![image]!![Screenshot (285)](https://github.com/user-attachments/assets/17b4ebfc-a479-4f98-9478-8bfba0c4b980)
+
 
 
 - Now U can see A `ORG_ID` On ur Terminal..Save it!
@@ -136,7 +137,8 @@ cd ..
 
 * Now It will promt `Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N]` Enter `N`
 
-![image]![Screenshot (284)](https://github.com/user-attachments/assets/1fe33d6c-39c4-444b-9347-bfcf300d3762)
+![image]!![Screenshot (284)](https://github.com/user-attachments/assets/5477936a-2d1d-4977-8be1-033456c1f857)
+
 
 
 
