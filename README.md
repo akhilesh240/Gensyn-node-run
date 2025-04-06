@@ -168,7 +168,8 @@ screen -r gensyn
 
 * Check the image below to get your Node id!
 
-![image](https://github.com/user-attachments/assets/728c6401-75c8-43b4-973c-e9d515c4b453)
+![image]![Screenshot (286)](https://github.com/user-attachments/assets/5c121e1d-15b3-4f9f-b307-bc33aa3f6292)
+
 
 # 4️⃣ Save your `swarm.pem` file (for future login)
 
