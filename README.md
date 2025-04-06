@@ -65,7 +65,7 @@ yarn -v
 
 <div align="center">
 
-# 👨🏻‍💻 Start The Node (Linux/Mac) 
+# 👨🏻‍💻 Start The Node (Linux) 
 
 </div>
 
