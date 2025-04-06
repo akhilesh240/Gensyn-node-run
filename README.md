@@ -63,13 +63,6 @@ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/source
 sudo apt update && sudo apt install -y yarn
 ```
 
-
-* For **Mac**
-
-```
-brew install node && corepack enable && npm install -g yarn
-```
-
 * Check version **(Linux/Mac)**
 
 ```
@@ -187,78 +180,6 @@ screen -r gensyn
 #  🛠 FAQ & Troubleshoot 🛠
 
 </div>
-
-
-# 1️⃣ How to Login or access  http://localhost:3000/ in VPS? 📶
-
-* Open a new Terminal and login ur vps 
-
-* Allow Incoming connection on VPS
-
-```
-sudo apt install ufw -y
-sudo ufw allow 3000/tcp
-```
-
-* Enable ufw
-
-```
-sudo ufw enable
-```
-
-* Install cloudflared on the VPS
-
-```
-wget -q https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
-````
-
-```
-sudo dpkg -i cloudflared-linux-amd64.deb
-```
-
-* Check version
-
-```
-cloudflared --version
-```
-
-* Make sure your Node is running on port 3000 in Previous Screen
-
-* Run the tunnel command
-
-```
-cloudflared tunnel --url http://localhost:3000
-```
-
-* Access the Link from your local machine
-
-    
-    ![image](https://github.com/user-attachments/assets/c5bdfec5-123d-4625-8da8-f46269700950)
-
-* Now follow Login!
- 
-* Done!✅
-
-
-
-# 2️⃣ Solution of OOM errors on MacBook (Memory/Cpu limit)
-
-* Open -
- ```
-nano ~/.zshrc
-```
-
-* Paste in the file
-
-```
-export PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0
-export PYTORCH_ENABLE_MPS_FALLBACK=1
-```
-* Reload with
-
-```
-  source ~/.zshrc
-```
 
 # 3️⃣ How to get the Node Name?
 
