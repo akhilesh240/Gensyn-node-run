@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Gensyn-ai-Rl-Swarm_Guide {Mac/Linux} 💻
+# 💻 Gensyn-ai-Rl-Swarm_Guide {Linux} 💻
 
 </div>
 
