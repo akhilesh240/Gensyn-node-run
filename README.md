@@ -7,7 +7,7 @@
 
 # Device/System Requirements 🖥️
 
-(https://github.com/user-attachments/assets/594d0847-362b-4ea6-9e61-8590105421c8)
+![image](https://github.com/user-attachments/assets/594d0847-362b-4ea6-9e61-8590105421c8)
 
 **❌❌The Node Wont work on low Specs Devices, It can Cause System Crashing if u try on Low Specs Devices**
 
