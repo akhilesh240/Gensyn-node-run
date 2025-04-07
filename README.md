@@ -119,7 +119,7 @@ cd ..
 
 - Now Login With Your Email Id, Enter OTP and back to ur Terminal/Wsl? 
 
-![image](Screenshot (285)](https://github.com/user-attachments/assets/17b4ebfc-a479-4f98-9478-8bfba0c4b980)
+![image](https://github.com/user-attachments/assets/17b4ebfc-a479-4f98-9478-8bfba0c4b980)
 
 
 
