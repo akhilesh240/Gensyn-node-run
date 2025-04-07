@@ -129,11 +129,11 @@ cd ..
 
 * Now It will promt `Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N]` Enter `N`
 
-![image][Screenshot (289)](https://github.com/user-attachments/assets/cd0bd897-06db-42f3-a964-facc3e067bca)
+![image](https://github.com/user-attachments/assets/cd0bd897-06db-42f3-a964-facc3e067bca)
 
 Here we go🚀
 
-![image][Screenshot (284)](https://github.com/user-attachments/assets/5477936a-2d1d-4977-8be1-033456c1f857)
+![image](https://github.com/user-attachments/assets/5477936a-2d1d-4977-8be1-033456c1f857)
 
 Its Done ✅
 
@@ -149,7 +149,7 @@ It will Generate Logs Soon🙌
 
 * Check the image below to get your Node id!
 
-![image][Screenshot (286)](https://github.com/user-attachments/assets/5c121e1d-15b3-4f9f-b307-bc33aa3f6292)
+![image](https://github.com/user-attachments/assets/5c121e1d-15b3-4f9f-b307-bc33aa3f6292)
 
 
 # 4️⃣ Save your `swarm.pem` file (for future login)
