@@ -77,11 +77,7 @@ git clone https://github.com/gensyn-ai/rl-swarm.git
 ```
 
 
-* 2️⃣ Create a screen session **(vps)**
-
-```
-screen -S gensyn
-````
+* 2️⃣ xxx
 
 * 3️⃣ Navigate to rl-swarm
 
@@ -137,6 +133,9 @@ cd ..
 
 * Now It will promt `Would you like to push models you train in the RL swarm to the Hugging Face Hub? [y/N]` Enter `N`
 
+![Screenshot (289)](https://github.com/user-attachments/assets/cd0bd897-06db-42f3-a964-facc3e067bca)
+
+
 ![image]!![Screenshot (284)](https://github.com/user-attachments/assets/5477936a-2d1d-4977-8be1-033456c1f857)
 
 Here we go🚀
@@ -144,19 +143,6 @@ Here we go🚀
 Its Done ✅
 
 It will Generate Logs Soon🙌
-
-
-* Detach from `screen session` **(vps)**
-
-Use `Ctrl + A` and then press `D`
-
-* Attach to gensyn Screen to see Logs
-
-```
-screen -r gensyn
-```
-
-
 
 <div align="center">
 
