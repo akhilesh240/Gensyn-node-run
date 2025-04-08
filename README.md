@@ -152,19 +152,6 @@ It will Generate Logs Soon🙌
 ![image](https://github.com/user-attachments/assets/5c121e1d-15b3-4f9f-b307-bc33aa3f6292)
 
 
-# 4️⃣ Save your `swarm.pem` file (for future login)
-
-* open a wsl window 
-
-* If U have to copy this file to your local machine from VPS then Run this command from your local Terminal--
-
-```
-scp USERNAME@YOUR_IP:~/rl-swarm/swarm.pem ~/swarm.pem
-```
-
-It will save here in ur Terminal's Root Directory!
-
-
 # 5️⃣ How To start the Next Day (Local Pc)
 
 *
