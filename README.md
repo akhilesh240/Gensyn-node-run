@@ -73,7 +73,12 @@ git clone https://github.com/gensyn-ai/rl-swarm.git
 ```
 
 
-* 2️⃣ xxx
+* 2️⃣ Create a screen session (vps users Only)
+
+
+```
+screen -S gensyn
+````
 
 * 3️⃣ Navigate to rl-swarm
 
@@ -139,11 +144,71 @@ Its Done ✅
 
 It will Generate Logs Soon🙌
 
+* Detach from `screen session` **(vps)**
+
+Use `Ctrl + A` and then press `D`
+
+* Attach to gensyn Screen to see Logs
+
+```
+screen -r gensyn
+```
+
 <div align="center">
 
 #  🛠 FAQ & Troubleshoot 🛠
 
 </div>
+
+# 1️⃣ How to Login or access  http://localhost:3000/ in VPS? 📶
+
+* Open a new Terminal and login ur vps 
+
+* Allow Incoming connection on VPS
+
+```
+sudo apt install ufw -y
+sudo ufw allow 3000/tcp
+```
+
+* Enable ufw
+
+```
+sudo ufw enable
+```
+
+* Install cloudflared on the VPS
+
+```
+wget -q https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
+````
+
+```
+sudo dpkg -i cloudflared-linux-amd64.deb
+```
+
+* Check version
+
+```
+cloudflared --version
+```
+
+* Make sure your Node is running on port 3000 in Previous Screen
+
+* Run the tunnel command
+
+```
+cloudflared tunnel --url http://localhost:3000
+```
+
+* Access the Link from your local machine
+
+    
+    ![image](https://github.com/user-attachments/assets/c5bdfec5-123d-4625-8da8-f46269700950)
+
+* Now follow Login!
+ 
+* Done!✅
 
 # 3️⃣ How to get the Node Name?
 
